@@ -40,9 +40,7 @@ Aplicacion que realiza el swipe o deslizamiento en el Dispositivo
 <acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
  
- 
  <!-- Colocar icono app -->
  
  <icon src="res/android/mdpi.png"/>
- 
  </widget>
